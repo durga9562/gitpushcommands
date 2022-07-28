@@ -1,7 +1,7 @@
 =>cd paste that path(change slash)
 =>git init
 =>git remote add origin <url>
-=>git origin
+=>git remote
 =>git status
 =>git add .
 =>git status
